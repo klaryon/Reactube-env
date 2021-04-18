@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![alt text](https://github.com/klaryon/Reactube-env/blob/main/src/assets/gif/reactube.gif?raw=true)
 
+* Youtube API: https://developers.google.com/youtube/v3
+
+![alt text](https://github.com/klaryon/reactube-env/blob/main/src/assets/images/esquema.PNG?raw=true)
+
 # Getting Started with Create React App
 
 ## Available Scripts
