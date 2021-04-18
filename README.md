@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![alt text](https://github.com/klaryon/Reactube-env/blob/main/src/assets/gif/reactube.gif?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
