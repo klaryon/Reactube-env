@@ -1,12 +1,16 @@
 # Reactube
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Build a Youtube clone with React. Create a search bar to display a video list. Select a video from the video list to display a video detail. Play the video :).
 
-![alt text](https://github.com/klaryon/Reactube-env/blob/main/src/assets/gif/reactube.gif?raw=true)
+## API 
 
 * Youtube API: https://developers.google.com/youtube/v3
 
+![alt text](https://github.com/klaryon/Reactube-env/blob/main/src/assets/gif/reactube.gif?raw=true)
+
 ![alt text](https://github.com/klaryon/reactube-env/blob/main/src/assets/images/esquema.PNG?raw=true)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Getting Started with Create React App
 
