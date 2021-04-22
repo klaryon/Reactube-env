@@ -2,6 +2,8 @@
 
 Build a Youtube clone with React. Create a search bar to display a video list. Select a video from the video list to display a video detail. Play the video :).
 
+Get a preview at: https://reactube-env.web.app/
+
 ## API 
 
 * Youtube API: https://developers.google.com/youtube/v3
